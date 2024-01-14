@@ -52,7 +52,7 @@
     "3d-force-graph-vr": "2",
     "force-graph": "1",
     "prop-types": "15",
-    "react-kapsule": "2"
+    "react-kapsule": "git://github.com/mneunomne/preact-kapsule.git"
   },
   "peerDependencies": {
     "react": "*"
